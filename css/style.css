@@ -1,0 +1,153 @@
+body{
+	margin:0;
+	background-color:#5f7a3d;
+	padding-top: 20px;
+	background-image: url("../images/img2.jpg");
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+
+
+.allcards{
+	height:auto;
+}
+
+
+.img1 img {
+	
+	width:150px;
+	height:auto;
+
+}
+
+.pcfourcards{
+	margin-bottom:30px;
+}
+
+
+.imgmin1{	
+	float:left;
+	text-align: center;
+	color: #b40808;
+	font-size: 40px;
+	font-weight: bold;
+	max-width: 10%;
+
+}
+
+.backimage{
+	width:150px;
+}
+.imgintable{
+	float:left;
+	margin-bottom:80px;
+	text-align:center;
+	min-height:200px;
+	width:70%;
+}
+.backimage img{
+	max-width: 150px;
+}
+.imgintable  img{
+	width:100px;
+
+}
+
+.round{
+	width:15%;
+	text-align: center;
+	border:2px solid white;
+	font-size: 24px;
+	font-weight: bold;
+	float: left;
+
+}
+
+.allintable{
+	text-align: center;
+}
+/* end sec*/
+
+
+
+
+.fourimgs{
+	height:auto;
+	text-align: center;
+	margin-bottom: 15px;
+	display: inline-block;
+	width:85%;
+
+}
+
+.pcscore{
+	width: 150px;
+	border: 2px solid white;
+	font-size: 24px;
+	padding-top:7px;
+vertical-align: top;
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+}
+.clear{
+	clear: both;
+}
+
+
+.user{
+	height:auto;
+	margin: auto;
+	text-align: center;
+	display: inline-block;
+	width:85%;
+}
+
+.userscore{
+	width: 150px;
+	border: 2px solid white;
+	font-size: 24px;
+	padding-top:7px;
+	vertical-align: top;
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+
+
+
+.backimg{
+	
+	height:150px;
+
+
+}
+
+.facedownpc{
+	height:150px;
+
+}
+
+.first-section  {
+	margin-bottom:55px;
+}
+
+.second-section{
+		margin-bottom:35px;
+
+}
+
+
+
+.finalimg{
+	text-align: center;
+}
+
+
+.congratulations , .gameover  ,.tryagain{
+	display: none;
+
+}
